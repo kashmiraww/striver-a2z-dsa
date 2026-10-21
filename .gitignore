@@ -1,0 +1,10 @@
+# CPH Judge data and binaries
+.cph/
+*.bin
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+a.out
