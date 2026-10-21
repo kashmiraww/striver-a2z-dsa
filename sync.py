@@ -9,7 +9,37 @@ IGNORE = {".git", ".vscode", ".github", "__pycache__"}
 
 # Optional: total problems per folder, using your exact folder names, e.g.
 # TOTALS = {"03-Arrays": 40, "04-Binary-Search": 32}
-TOTALS = {}
+TOTALS = {
+    # Beginner sub-sections (61 of the 83 Beginner problems)
+    "basicmaths": 13,
+    "basicarrays": 4,
+    "basichashing": 3,
+    "basicstrings": 8,
+    "basicrecursion": 12,
+    "patterns": 21,
+
+    # Main sections
+    "02-Sorting": 7,
+    "03-Arrays": 32,
+    "04-Hashing": 6,
+    "05-Binary-Search": 32,
+    "06-Strings-Basic-Medium": 7,
+    "07-Recursion": 22,
+    "08-Linked-List": 49,
+    "09-Bit-Manipulation": 14,
+    "10-Greedy": 14,
+    "11-Sliding-Window-Two-Pointer": 13,
+    "12-Stack-Queues": 31,
+    "13-Binary-Trees": 32,
+    "14-Binary-Search-Trees": 15,
+    "15-Heaps": 20,
+    "16-Graphs": 46,
+    "17-Dynamic-Programming": 53,
+    "18-Tries": 7,
+    "19-Strings-Advanced": 9,
+    "20-Maths": 3,
+}
+GRAND_TOTAL = 473
 
 
 def bar(done, total, width=10):
@@ -32,7 +62,7 @@ def build_table():
             lines.append(f"| {f.name} | {solved} | {total} | {bar(solved, total)} {solved * 100 // total}% |")
         else:
             lines.append(f"| {f.name} | {solved} | - | - |")
-    lines.append(f"| **All** | **{solved_all}** | | |")
+    lines.append(f"| **All** | **{solved_all}** | **{GRAND_TOTAL}** | {bar(solved_all, GRAND_TOTAL)} {solved_all * 100 // GRAND_TOTAL}% |")
     stamp = datetime.now().strftime("%d %b %Y")
     return "\n".join(lines) + f"\n\n*Last updated: {stamp}*"
 
