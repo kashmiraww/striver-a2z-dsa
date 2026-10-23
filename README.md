@@ -7,9 +7,9 @@ My C++ solutions to Striver's TUF A2Z DSA Sheet, organised by topic.
 <!-- PROGRESS_START -->
 | Topic | Solved | Total | Progress |
 |---|---|---|---|
-| basicmaths | 7 | 13 | █████░░░░░ 53% |
+| basicmaths | 10 | 13 | ████████░░ 76% |
 | patterns | 21 | 21 | ██████████ 100% |
-| **All** | **28** | **473** | █░░░░░░░░░ 5% |
+| **All** | **31** | **473** | █░░░░░░░░░ 6% |
 
-*Last updated: 21 Oct 2026*
+*Last updated: 23 Oct 2026*
 <!-- PROGRESS_END -->
