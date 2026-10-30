@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 class Solution {
+
 public:
     int secondMostFrequentElement(vector<int>& nums) {
         int n = nums.size(), maxfre = 0, secmaxfre = 0,
