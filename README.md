@@ -24,5 +24,5 @@ My C++ solutions to Striver's TUF A2Z DSA Sheet, organised by topic.
 | tries | 0 | - | - |
 | **All** | **59** | **473** | █░░░░░░░░░ 12% |
 
-*Last updated: 29 Oct 2026*
+*Last updated: 31 Oct 2026*
 <!-- PROGRESS_END -->
