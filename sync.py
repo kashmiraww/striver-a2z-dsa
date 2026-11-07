@@ -15,7 +15,7 @@ TOTALS = {
     "basicarrays": 4,
     "basichashing": 3,
     "basicstrings": 8,
-    "basicrecursion": 12,
+    "basicrecursion": 10,
     "patterns": 21,
 
     # Main sections
@@ -39,7 +39,7 @@ TOTALS = {
     "19-Strings-Advanced": 9,
     "20-Maths": 3,
 }
-GRAND_TOTAL = 473
+GRAND_TOTAL = 471
 
 
 def bar(done, total, width=10):
