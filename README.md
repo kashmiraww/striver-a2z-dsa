@@ -19,10 +19,10 @@ My C++ solutions to Striver's TUF A2Z DSA Sheet, organised by topic.
 | heaps | 0 | - | - |
 | patterns | 21 | 21 | ██████████ 100% |
 | recursion | 0 | - | - |
-| sorting | 0 | - | - |
+| sorting | 5 | - | - |
 | strings | 0 | - | - |
 | tries | 0 | - | - |
-| **All** | **59** | **471** | █░░░░░░░░░ 12% |
+| **All** | **64** | **471** | █░░░░░░░░░ 13% |
 
-*Last updated: 07 Nov 2026*
+*Last updated: 10 Nov 2026*
 <!-- PROGRESS_END -->
