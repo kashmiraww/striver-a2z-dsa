@@ -19,27 +19,27 @@ TOTALS = {
     "patterns": 21,
 
     # Main sections
-    "02-Sorting": 7,
-    "03-Arrays": 32,
-    "04-Hashing": 6,
-    "05-Binary-Search": 32,
-    "06-Strings-Basic-Medium": 7,
-    "07-Recursion": 22,
-    "08-Linked-List": 49,
-    "09-Bit-Manipulation": 14,
-    "10-Greedy": 14,
-    "11-Sliding-Window-Two-Pointer": 13,
-    "12-Stack-Queues": 31,
-    "13-Binary-Trees": 32,
-    "14-Binary-Search-Trees": 15,
-    "15-Heaps": 20,
-    "16-Graphs": 46,
-    "17-Dynamic-Programming": 53,
-    "18-Tries": 7,
-    "19-Strings-Advanced": 9,
-    "20-Maths": 3,
+    "sorting": 5,
+    "arrays": 32,
+    "hashing": 6,
+    "binarysearch": 32,
+    "strings": 7,
+    "recursion": 22,
+    "linkedlist": 49,
+    "bitmanipulation": 14,
+    "greedy": 14,
+    "slidingwindow": 13,
+    "stackqueues": 31,
+    "binarytrees": 32,
+    "binarysearchtrees": 15,
+    "heaps": 20,
+    "graphs": 46,
+    "dynamicprogramming": 53,
+    "tries": 7,
+    "stringsadvanced": 9,
+    "maths": 3,
 }
-GRAND_TOTAL = 471
+GRAND_TOTAL = 469
 
 
 def bar(done, total, width=10):
