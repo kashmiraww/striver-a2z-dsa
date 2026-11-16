@@ -7,7 +7,7 @@ My C++ solutions to Striver's TUF A2Z DSA Sheet, organised by topic.
 <!-- PROGRESS_START -->
 | Topic | Solved | Total | Progress |
 |---|---|---|---|
-| arrays | 2 | 32 | █░░░░░░░░░ 6% |
+| arrays | 3 | 32 | █░░░░░░░░░ 9% |
 | basicarrays | 4 | 4 | ██████████ 100% |
 | basichashing | 3 | 3 | ██████████ 100% |
 | basicmaths | 13 | 13 | ██████████ 100% |
@@ -22,7 +22,7 @@ My C++ solutions to Striver's TUF A2Z DSA Sheet, organised by topic.
 | sorting | 5 | 5 | ██████████ 100% |
 | strings | 0 | 7 | ░░░░░░░░░░ 0% |
 | tries | 0 | 7 | ░░░░░░░░░░ 0% |
-| **All** | **66** | **469** | █░░░░░░░░░ 14% |
+| **All** | **67** | **469** | █░░░░░░░░░ 14% |
 
-*Last updated: 14 Nov 2026*
+*Last updated: 16 Nov 2026*
 <!-- PROGRESS_END -->
